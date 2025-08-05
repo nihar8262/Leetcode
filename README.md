@@ -9,6 +9,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/nihar8262/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/nihar8262/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nihar8262/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [3790-fruits-into-baskets-ii](https://github.com/nihar8262/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +38,20 @@
 |  |
 | ------- |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/nihar8262/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/nihar8262/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/nihar8262/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/nihar8262/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/nihar8262/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
