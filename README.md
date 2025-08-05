@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/nihar8262/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nihar8262/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/nihar8262/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/nihar8262/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -13,6 +14,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/nihar8262/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nihar8262/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/nihar8262/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 ## Greedy
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/nihar8262/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/nihar8262/Leetcode/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
