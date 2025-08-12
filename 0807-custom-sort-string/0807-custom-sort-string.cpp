@@ -1,26 +1,19 @@
 class Solution {
 public:
     string customSortString(string order, string s) {
-        string ans = "";
-        int n = order.size();
-        int m = s.size();
-
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(order[i] == s[j]){
-                    ans = ans + order[i];
-                    s[j] = '#';
-                }
-            }
+        string result = "";
+        unordered_map<int,int>mp;
+        for(auto &it : s){
+            mp[it]++;
         }
-        int i=0;
-
-        while(i<m){
-            if(s[i]!='#') ans = ans + s[i];
-            cout<<s[i];
-            i++;
+        for(auto &it : order){
+            if(mp.find(it) != mp.end())
+                result.append(mp[it], it);
+                mp.erase(it);
         }
-
-        return ans;
+        for(auto &it : mp){
+            result.append(it.second,it.first);
+        }
+        return result;
     }
 };
