@@ -6,6 +6,7 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/nihar8262/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0940-fruit-into-baskets](https://github.com/nihar8262/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nihar8262/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nihar8262/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/nihar8262/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/nihar8262/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/nihar8262/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nihar8262/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0807-custom-sort-string](https://github.com/nihar8262/Leetcode/tree/master/0807-custom-sort-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nihar8262/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
