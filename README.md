@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nihar8262/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/nihar8262/Leetcode/tree/master/0342-power-of-four) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nihar8262/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Two Pointers
 |  |
@@ -75,10 +76,12 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nihar8262/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/nihar8262/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nihar8262/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/nihar8262/Leetcode/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
