@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [0807-custom-sort-string](https://github.com/nihar8262/Leetcode/tree/master/0807-custom-sort-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/nihar8262/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nihar8262/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Dynamic Programming
 |  |
