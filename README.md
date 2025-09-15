@@ -26,6 +26,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nihar8262/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0807-custom-sort-string](https://github.com/nihar8262/Leetcode/tree/master/0807-custom-sort-string) |
 | [0940-fruit-into-baskets](https://github.com/nihar8262/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/nihar8262/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/nihar8262/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1873-longest-nice-substring](https://github.com/nihar8262/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nihar8262/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0807-custom-sort-string](https://github.com/nihar8262/Leetcode/tree/master/0807-custom-sort-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/nihar8262/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nihar8262/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1873-longest-nice-substring](https://github.com/nihar8262/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nihar8262/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
