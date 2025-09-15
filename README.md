@@ -48,6 +48,7 @@
 | [2117-find-original-array-from-doubled-array](https://github.com/nihar8262/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nihar8262/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nihar8262/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2887-sort-vowels-in-a-string](https://github.com/nihar8262/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nihar8262/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1873-longest-nice-substring](https://github.com/nihar8262/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nihar8262/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/nihar8262/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/nihar8262/Leetcode/tree/master/3396-valid-word) |
 ## Dynamic Programming
 |  |
