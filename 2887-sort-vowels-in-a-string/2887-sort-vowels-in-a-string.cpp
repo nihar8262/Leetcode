@@ -7,6 +7,7 @@ public:
         else
             return false;
     }
+
     string sortVowels(string s) {
         int n = s.size(), k = 0;
         string vowel = "";
@@ -28,3 +29,11 @@ public:
         return s;
     }
 };
+
+auto init = []()
+{ 
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    return 'c';
+}();
