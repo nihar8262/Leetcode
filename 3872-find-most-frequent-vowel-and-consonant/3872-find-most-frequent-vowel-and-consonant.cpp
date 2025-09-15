@@ -2,7 +2,7 @@ class Solution {
 public:
 
     bool isVowel(char ch) {
-        return string("AEIOUaeiou").find(ch) != string::npos;
+        return string("aeiou").find(ch) != string::npos;
     }
 
     int maxFreqSum(string s) {
