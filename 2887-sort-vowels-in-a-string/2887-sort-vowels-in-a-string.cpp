@@ -25,24 +25,6 @@ public:
             }
         }
 
-        // for (int i = 0; i < n - 1; i++) {
-        //     if (isVowel(s[i])) {
-        //         char ch = s[i];
-        //         for (int j = i + 1; j < n; j++) {
-        //             if (isVowel(s[j])){
-        //                 char x = s[j];
-        //                 int p = (int)ch;
-        //                 int q = (int) x;
-        //                 if(p>q) {
-        //                     swap(s[i],s[j]);
-        //                     ch = s[i];
-        //                 }
-                        
-        //             }
-        //         }
-        //     }
-        // }
-
         return s;
     }
 };
