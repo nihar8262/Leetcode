@@ -11,16 +11,10 @@ public:
                 sum += num%10;
                 num /=10;
             }
-            cout<<sum<<" "; 
-            if(mp.find(sum) != mp.end()) mp[sum]++;
-            else mp[sum] = 1;
+            mp[sum]++;
             maxi = max(maxi,mp[sum]);
             k++;
         }
-
-        // for(auto it:mp){
-        //     maxi = max(maxi,it.second);
-        // }
         for(auto it:mp){
             if(it.second == maxi) cnt++;
         }
