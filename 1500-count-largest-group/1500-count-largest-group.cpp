@@ -1,11 +1,11 @@
 class Solution {
 public:
     int countLargestGroup(int n) {
-        int num,maxi=0,cnt=0;
+        int k = 1,num,maxi=0,cnt=0;
         unordered_map<int,int> mp;
 
-        for(int i=1;i<=n;i++){
-            num = i;
+        while(k<=n){
+            num = k;
             int sum = 0;
             while(num){
                 sum += num%10;
@@ -13,6 +13,7 @@ public:
             }
             mp[sum]++;
             maxi = max(maxi,mp[sum]);
+            k++;
         }
         for(auto it:mp){
             if(it.second == maxi) cnt++;
