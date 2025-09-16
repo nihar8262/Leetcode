@@ -14,12 +14,13 @@ public:
             cout<<sum<<" "; 
             if(mp.find(sum) != mp.end()) mp[sum]++;
             else mp[sum] = 1;
+            maxi = max(maxi,mp[sum]);
             k++;
         }
 
-        for(auto it:mp){
-            maxi = max(maxi,it.second);
-        }
+        // for(auto it:mp){
+        //     maxi = max(maxi,it.second);
+        // }
         for(auto it:mp){
             if(it.second == maxi) cnt++;
         }
