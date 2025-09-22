@@ -24,6 +24,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nihar8262/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nihar8262/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nihar8262/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/nihar8262/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/nihar8262/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/nihar8262/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3790-fruits-into-baskets-ii](https://github.com/nihar8262/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -43,6 +44,7 @@
 | [1873-longest-nice-substring](https://github.com/nihar8262/Leetcode/tree/master/1873-longest-nice-substring) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nihar8262/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/nihar8262/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/nihar8262/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nihar8262/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -71,6 +73,7 @@
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nihar8262/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nihar8262/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/nihar8262/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nihar8262/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
