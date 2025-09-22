@@ -7,10 +7,7 @@ public:
         unordered_map<int,int> mp;
 
         for(int it:nums){
-            mp[it]++;
-            if(mp.find(it)!=mp.end()) cnt = mp[it];
-
-            maxi = max(maxi,cnt);
+            maxi = max(maxi,++mp[it]);
         }
 
         cnt = 0;
