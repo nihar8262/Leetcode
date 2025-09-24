@@ -2,21 +2,12 @@ class Solution {
 public:
     int countGoodSubstrings(string s) {
         int n = s.size();
-        int  i = 0, j = 0, k = 0, cnt = 0;
-        unordered_map<char,int> mp;
+        int  i = 0, j = 1, k = 0, cnt = 0;
 
-        while(i<n-2 && j<n){
-            if(mp[s[j]] == 0 && k<3){
-                mp[s[j]]++;
-                k++;
-                j++;
-                if(k == 3) cnt++;
-            }else {
-                i++;
-                j = i;
-                k=0;
-                mp.clear();
-            }
+        while(i<n-2 && j<n-1){
+            if(s[i] != s[j] && s[j] != s[j+1] && s[i] != s[j+1]) cnt++;
+            j++;
+            i++;
         }
 
         return cnt;
