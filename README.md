@@ -27,6 +27,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/nihar8262/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nihar8262/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nihar8262/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/nihar8262/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nihar8262/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nihar8262/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/nihar8262/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -142,6 +143,7 @@
 | [1873-longest-nice-substring](https://github.com/nihar8262/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nihar8262/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nihar8262/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/nihar8262/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 ## Bit Manipulation
 |  |
 | ------- |
