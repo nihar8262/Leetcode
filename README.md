@@ -55,6 +55,7 @@
 | [2117-find-original-array-from-doubled-array](https://github.com/nihar8262/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/nihar8262/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nihar8262/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/nihar8262/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nihar8262/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -149,6 +150,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nihar8262/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/nihar8262/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/nihar8262/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/nihar8262/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/nihar8262/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Bit Manipulation
 |  |
@@ -178,6 +180,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nihar8262/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nihar8262/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2887-sort-vowels-in-a-string](https://github.com/nihar8262/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/nihar8262/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3396-valid-word](https://github.com/nihar8262/Leetcode/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/nihar8262/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nihar8262/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
