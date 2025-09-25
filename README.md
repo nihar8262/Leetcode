@@ -29,6 +29,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nihar8262/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/nihar8262/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nihar8262/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/nihar8262/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nihar8262/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/nihar8262/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/nihar8262/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -51,6 +52,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nihar8262/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nihar8262/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/nihar8262/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/nihar8262/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nihar8262/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nihar8262/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
@@ -145,12 +147,14 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nihar8262/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nihar8262/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/nihar8262/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/nihar8262/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nihar8262/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/nihar8262/Leetcode/tree/master/0342-power-of-four) |
 | [1873-longest-nice-substring](https://github.com/nihar8262/Leetcode/tree/master/1873-longest-nice-substring) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/nihar8262/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Recursion
 |  |
 | ------- |
@@ -202,4 +206,8 @@
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nihar8262/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Trie
+|  |
+| ------- |
+| [3193-maximum-strong-pair-xor-i](https://github.com/nihar8262/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
