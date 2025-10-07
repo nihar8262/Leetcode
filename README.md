@@ -28,6 +28,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/nihar8262/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nihar8262/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/nihar8262/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/nihar8262/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nihar8262/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nihar8262/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/nihar8262/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -110,6 +111,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/nihar8262/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/nihar8262/Leetcode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/nihar8262/Leetcode/tree/master/1500-count-largest-group) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/nihar8262/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nihar8262/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3462-vowels-game-in-a-string](https://github.com/nihar8262/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/nihar8262/Leetcode/tree/master/3830-find-closest-person) |
@@ -134,6 +136,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/nihar8262/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nihar8262/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3790-fruits-into-baskets-ii](https://github.com/nihar8262/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -228,4 +231,8 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/nihar8262/Leetcode/tree/master/0830-largest-triangle-area) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/nihar8262/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
