@@ -4,10 +4,8 @@ public:
         int ans = numBottles, empty = numBottles, empty_bt;
 
         while(empty >= numExchange){
-            empty_bt = empty % numExchange;
-            int used = empty / numExchange;
-            ans += used;
-            empty = empty_bt + used;
+            ans += empty / numExchange;
+            empty = empty % numExchange + empty / numExchange;
         }
 
         return ans;
