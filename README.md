@@ -116,6 +116,7 @@
 | [1642-water-bottles](https://github.com/nihar8262/Leetcode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nihar8262/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nihar8262/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3336-water-bottles-ii](https://github.com/nihar8262/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/nihar8262/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/nihar8262/Leetcode/tree/master/3830-find-closest-person) |
 ## Two Pointers
@@ -143,6 +144,7 @@
 | [1642-water-bottles](https://github.com/nihar8262/Leetcode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nihar8262/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nihar8262/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3336-water-bottles-ii](https://github.com/nihar8262/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/nihar8262/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
