@@ -15,6 +15,7 @@
 | [0940-fruit-into-baskets](https://github.com/nihar8262/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/nihar8262/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/nihar8262/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/nihar8262/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nihar8262/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nihar8262/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nihar8262/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -195,6 +196,7 @@
 | ------- |
 | [0120-triangle](https://github.com/nihar8262/Leetcode/tree/master/0120-triangle) |
 | [0413-arithmetic-slices](https://github.com/nihar8262/Leetcode/tree/master/0413-arithmetic-slices) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/nihar8262/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nihar8262/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nihar8262/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Queue
