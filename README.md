@@ -127,6 +127,7 @@
 | [1642-water-bottles](https://github.com/nihar8262/Leetcode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/nihar8262/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/nihar8262/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/nihar8262/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nihar8262/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nihar8262/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3336-water-bottles-ii](https://github.com/nihar8262/Leetcode/tree/master/3336-water-bottles-ii) |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/nihar8262/Leetcode/tree/master/1642-water-bottles) |
+| [2288-count-operations-to-obtain-zero](https://github.com/nihar8262/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nihar8262/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nihar8262/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/nihar8262/Leetcode/tree/master/3336-water-bottles-ii) |
