@@ -22,7 +22,6 @@ public:
         }
 
         for(auto it:mp){
-            cout<<"value "<<it.first<<" count "<<it.second<<endl;
             if(it.second == 1) {
                 ListNode* newNode = new ListNode(it.first);
 
