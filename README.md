@@ -203,6 +203,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/nihar8262/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/nihar8262/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nihar8262/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nihar8262/Leetcode/tree/master/0342-power-of-four) |
@@ -282,6 +283,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/nihar8262/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nihar8262/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nihar8262/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
