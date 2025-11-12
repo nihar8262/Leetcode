@@ -113,6 +113,7 @@
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/nihar8262/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/nihar8262/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nihar8262/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nihar8262/Leetcode/tree/master/0342-power-of-four) |
@@ -231,6 +232,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/nihar8262/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/nihar8262/Leetcode/tree/master/0120-triangle) |
 | [0413-arithmetic-slices](https://github.com/nihar8262/Leetcode/tree/master/0413-arithmetic-slices) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/nihar8262/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -294,4 +296,16 @@
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nihar8262/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/nihar8262/Leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/nihar8262/Leetcode/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/nihar8262/Leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
