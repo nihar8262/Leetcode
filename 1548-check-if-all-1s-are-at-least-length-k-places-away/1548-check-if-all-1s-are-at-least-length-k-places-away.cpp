@@ -2,20 +2,13 @@ class Solution {
 public:
     bool kLengthApart(vector<int>& nums, int k) {
         int n = nums.size();
-        int cnt = 0, i = 0, j = 1;
+        int prev = -1;
 
-        while (j < n) {
-            if (nums[i] == 1) {
-                if ((nums[i] == nums[j] == 1) && cnt >= k) {
-                    i = j;
-                    cnt = -1;
-                } else if ((nums[i] == nums[j] == 1) && cnt < k)
-                    return false;
-                cnt++;
-            } else{
-                i++;
+        for(int i = 0; i<n; i++){
+            if(nums[i] == 1) {
+                if(prev != -1 && i - prev -1 < k) return false;
+            prev = i;
             }
-            j++;
         }
 
         return true;
