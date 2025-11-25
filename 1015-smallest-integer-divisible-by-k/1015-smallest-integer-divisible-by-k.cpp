@@ -1,12 +1,12 @@
 class Solution {
 public:
     int smallestRepunitDivByK(int k) {
-        int cnt = 0, n = 0;
+        int cnt = 0, rem = 0;
 
         while (cnt <= k) {
-            n = (n * 10 + 1) % k;
+            rem = (rem * 10 + 1) % k;
             cnt++;
-            if (n == 0)
+            if (rem == 0)
                 return cnt;
         }
 
