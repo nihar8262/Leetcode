@@ -25,6 +25,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nihar8262/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/nihar8262/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nihar8262/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1590-make-sum-divisible-by-p](https://github.com/nihar8262/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nihar8262/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1755-defuse-the-bomb](https://github.com/nihar8262/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/nihar8262/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -67,6 +68,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nihar8262/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nihar8262/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1500-count-largest-group](https://github.com/nihar8262/Leetcode/tree/master/1500-count-largest-group) |
+| [1590-make-sum-divisible-by-p](https://github.com/nihar8262/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/nihar8262/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1873-longest-nice-substring](https://github.com/nihar8262/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nihar8262/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -370,6 +372,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1590-make-sum-divisible-by-p](https://github.com/nihar8262/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nihar8262/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nihar8262/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 <!---LeetCode Topics End-->
