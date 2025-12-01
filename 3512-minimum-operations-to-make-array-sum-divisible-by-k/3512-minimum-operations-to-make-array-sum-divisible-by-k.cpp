@@ -2,8 +2,6 @@ class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
         int ans = 0, sum = 0;
-        int n = nums.size();
-        int i = 0;
 
         for(auto it:nums){
             sum += it;
