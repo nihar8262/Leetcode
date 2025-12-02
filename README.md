@@ -34,6 +34,7 @@
 | [2117-find-original-array-from-doubled-array](https://github.com/nihar8262/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/nihar8262/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nihar8262/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/nihar8262/Leetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nihar8262/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nihar8262/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/nihar8262/Leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
