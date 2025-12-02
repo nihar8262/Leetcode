@@ -52,6 +52,7 @@
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/nihar8262/Leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/nihar8262/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nihar8262/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/nihar8262/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nihar8262/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nihar8262/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nihar8262/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -88,6 +89,7 @@
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/nihar8262/Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/nihar8262/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nihar8262/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/nihar8262/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nihar8262/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nihar8262/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nihar8262/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -107,6 +109,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nihar8262/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nihar8262/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/nihar8262/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/nihar8262/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/nihar8262/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sorting
 |  |
