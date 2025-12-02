@@ -14,15 +14,12 @@ public:
                 while(k<n && (nums[k] == nums[i])) k++;
                 if(j<0 || k>=n) break;
 
-                cout<< "i "<<i<<" j "<<j<<" k "<<k<<endl;
                 if((nums[i] > nums[j]) && nums[i] > nums[k]){
                     hill++;
-                    cout<< "hills :"<< nums[j]<<nums[i]<<nums[k] <<endl;
                     break;
                 }
                 else if((nums[i] < nums[j]) && nums[i] < nums[k]) {
                     valley++;
-                    cout<<"valley "<<nums[j]<<nums[i]<<nums[k]<<endl;
                     break;
                 }else break;
 
