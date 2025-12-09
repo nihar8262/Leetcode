@@ -52,6 +52,7 @@
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/nihar8262/Leetcode/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/nihar8262/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nihar8262/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/nihar8262/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/nihar8262/Leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/nihar8262/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nihar8262/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -171,6 +172,7 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/nihar8262/Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/nihar8262/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3336-water-bottles-ii](https://github.com/nihar8262/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/nihar8262/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/nihar8262/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nihar8262/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nihar8262/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -396,6 +398,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/nihar8262/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nihar8262/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nihar8262/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/nihar8262/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
