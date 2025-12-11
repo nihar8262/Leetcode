@@ -57,6 +57,7 @@
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/nihar8262/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nihar8262/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nihar8262/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3531-count-covered-buildings](https://github.com/nihar8262/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nihar8262/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/nihar8262/Leetcode/tree/master/3583-count-special-triplets) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/nihar8262/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -94,6 +95,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nihar8262/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/nihar8262/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nihar8262/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3531-count-covered-buildings](https://github.com/nihar8262/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nihar8262/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/nihar8262/Leetcode/tree/master/3583-count-special-triplets) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nihar8262/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -133,6 +135,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nihar8262/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nihar8262/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2887-sort-vowels-in-a-string](https://github.com/nihar8262/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3531-count-covered-buildings](https://github.com/nihar8262/Leetcode/tree/master/3531-count-covered-buildings) |
 ## Counting
 |  |
 | ------- |
