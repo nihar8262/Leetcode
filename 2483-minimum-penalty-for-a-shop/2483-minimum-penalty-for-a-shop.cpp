@@ -1,17 +1,10 @@
 class Solution {
 public:
     int bestClosingTime(string customers) {
-        int curPenalty = 0;
-        for (int i = 0; i < customers.size(); ++i) {
-            if (customers[i] == 'Y') {
-                curPenalty++;
-            }
-        }
-
-        int minPenalty = curPenalty;
+        int minPenalty = 0, curPenalty = 0;
         int earliestHour = 0;
 
-        for (int i = 0; i < customers.size(); ++i) {
+        for (int i = 0; i < customers.size(); i++) {
             char ch = customers[i];
 
             if (ch == 'Y') {
