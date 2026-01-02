@@ -12,15 +12,6 @@ public:
             else cnt = 0;
         }
         if(cnt == (n/2)-1) return nums[n-1];
-        // unordered_map<int, int> mp;
-
-        // for(int it: nums){
-        //     mp[it]++;
-        // }
-
-        // for(auto it: mp){
-        //     if(it.second == (n/2)) return it.first;
-        // }
 
         return 0;
     }
