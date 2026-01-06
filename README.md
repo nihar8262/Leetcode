@@ -392,6 +392,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nihar8262/Leetcode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/nihar8262/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -403,6 +404,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nihar8262/Leetcode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/nihar8262/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -413,11 +415,13 @@
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nihar8262/Leetcode/tree/master/0112-path-sum) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nihar8262/Leetcode/tree/master/0112-path-sum) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
