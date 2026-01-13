@@ -21,6 +21,7 @@
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/nihar8262/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nihar8262/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nihar8262/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/nihar8262/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nihar8262/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/nihar8262/Leetcode/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nihar8262/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -172,6 +173,7 @@
 | [0830-largest-triangle-area](https://github.com/nihar8262/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nihar8262/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/nihar8262/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/nihar8262/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/nihar8262/Leetcode/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/nihar8262/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/nihar8262/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -350,6 +352,7 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/nihar8262/Leetcode/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/nihar8262/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Combinatorics
 |  |
 | ------- |
