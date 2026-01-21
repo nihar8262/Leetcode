@@ -33,6 +33,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nihar8262/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1755-defuse-the-bomb](https://github.com/nihar8262/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/nihar8262/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1895-largest-magic-square](https://github.com/nihar8262/Leetcode/tree/master/1895-largest-magic-square) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nihar8262/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nihar8262/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/nihar8262/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -383,6 +384,7 @@
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nihar8262/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1895-largest-magic-square](https://github.com/nihar8262/Leetcode/tree/master/1895-largest-magic-square) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nihar8262/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Number Theory
 |  |
@@ -431,6 +433,7 @@
 |  |
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/nihar8262/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1895-largest-magic-square](https://github.com/nihar8262/Leetcode/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nihar8262/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/nihar8262/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nihar8262/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
