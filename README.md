@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nihar8262/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/nihar8262/Leetcode/tree/master/0011-container-with-most-water) |
 | [0120-triangle](https://github.com/nihar8262/Leetcode/tree/master/0120-triangle) |
 | [0219-contains-duplicate-ii](https://github.com/nihar8262/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -78,6 +79,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nihar8262/Leetcode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nihar8262/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/nihar8262/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/nihar8262/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
