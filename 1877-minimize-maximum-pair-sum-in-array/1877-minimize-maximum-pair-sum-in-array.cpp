@@ -8,8 +8,7 @@ public:
         sort(nums.begin(), nums.end());
 
         while(i<j){
-            int pair = nums[i] + nums[j];
-            maxi = max(maxi, pair);
+            maxi = max(maxi, nums[i] + nums[j]);
             i++;
             j--;
         }
