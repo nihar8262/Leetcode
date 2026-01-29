@@ -7,9 +7,8 @@ public:
         sort(arr.begin(), arr.end());
 
         for(int i = 0; i<arr.size()-1; i++){
-            int diff = abs(arr[i] - arr[i+1]);
-            mp[{arr[i], arr[i+1]}] = diff;
-            mini = min(mini, diff);
+            mp[{arr[i], arr[i+1]}] = abs(arr[i] - arr[i+1]);
+            mini = min(mini, abs(arr[i] - arr[i+1]));
         }
 
         for(auto entry: mp){
