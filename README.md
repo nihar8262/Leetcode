@@ -178,6 +178,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nihar8262/Leetcode/tree/master/0002-add-two-numbers) |
 | [0096-unique-binary-search-trees](https://github.com/nihar8262/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/nihar8262/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nihar8262/Leetcode/tree/master/0326-power-of-three) |
@@ -293,6 +294,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nihar8262/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/nihar8262/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/nihar8262/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nihar8262/Leetcode/tree/master/0326-power-of-three) |
@@ -389,6 +391,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nihar8262/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/nihar8262/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nihar8262/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [1765-merge-in-between-linked-lists](https://github.com/nihar8262/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
