@@ -31,10 +31,6 @@ public:
             }
         }
 
-        for(auto it:helper){
-            cout<<it<<" ";
-        }
-
         int k = helper.size() / 2;
 
         if(helper.size() % 2 == 0) {
