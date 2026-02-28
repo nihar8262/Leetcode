@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nihar8262/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/nihar8262/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/nihar8262/Leetcode/tree/master/0011-container-with-most-water) |
 | [0120-triangle](https://github.com/nihar8262/Leetcode/tree/master/0120-triangle) |
 | [0219-contains-duplicate-ii](https://github.com/nihar8262/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -231,6 +232,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nihar8262/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/nihar8262/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/nihar8262/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nihar8262/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -354,6 +356,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nihar8262/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1873-longest-nice-substring](https://github.com/nihar8262/Leetcode/tree/master/1873-longest-nice-substring) |
 ## Brainteaser
 |  |
