@@ -224,6 +224,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/nihar8262/Leetcode/tree/master/0011-container-with-most-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nihar8262/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/nihar8262/Leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/nihar8262/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0349-intersection-of-two-arrays](https://github.com/nihar8262/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nihar8262/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -309,6 +310,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nihar8262/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/nihar8262/Leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/nihar8262/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nihar8262/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0807-custom-sort-string](https://github.com/nihar8262/Leetcode/tree/master/0807-custom-sort-string) |
