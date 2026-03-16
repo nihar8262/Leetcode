@@ -2,19 +2,19 @@ class Solution {
 public:
     vector<int> replaceElements(vector<int>& arr) {
         int n = arr.size();
-        vector<int> ans;
+        vector<int> ans(n);
 
         if(n == 1) return {-1};
 
-        for(int i = 0; i<n-1; i++){
-            int maxi = 0;
-            for(int j = i+1; j<n; j++){
-                maxi = max(maxi, arr[j]);
-            }
-            ans.push_back(maxi);
-        }
+        
+        int maxi = 0;
 
-        ans.push_back(-1);
+        for(int i=n-1; i>=0; i--){
+            if(i == n-1) ans[i] = -1;
+            else ans[i] = maxi;
+
+            maxi = max(maxi, arr[i]);
+        }
 
         return ans;
     }
