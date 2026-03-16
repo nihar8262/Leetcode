@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/nihar8262/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/nihar8262/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nihar8262/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/nihar8262/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nihar8262/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nihar8262/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/nihar8262/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -202,6 +203,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/nihar8262/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/nihar8262/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/nihar8262/Leetcode/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/nihar8262/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/nihar8262/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/nihar8262/Leetcode/tree/master/0231-power-of-two) |
@@ -439,6 +441,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nihar8262/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/nihar8262/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nihar8262/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nihar8262/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
