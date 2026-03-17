@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/nihar8262/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nihar8262/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/nihar8262/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/nihar8262/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nihar8262/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/nihar8262/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/nihar8262/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -166,6 +167,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nihar8262/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/nihar8262/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nihar8262/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/nihar8262/Leetcode/tree/master/0229-majority-element-ii) |
@@ -251,6 +253,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nihar8262/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/nihar8262/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nihar8262/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nihar8262/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/nihar8262/Leetcode/tree/master/0088-merge-sorted-array) |
