@@ -351,6 +351,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nihar8262/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0807-custom-sort-string](https://github.com/nihar8262/Leetcode/tree/master/0807-custom-sort-string) |
 | [1006-vowel-spellchecker](https://github.com/nihar8262/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1021-remove-outermost-parentheses](https://github.com/nihar8262/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nihar8262/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nihar8262/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/nihar8262/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -488,6 +489,7 @@
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/nihar8262/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2211-count-collisions-on-a-road](https://github.com/nihar8262/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/nihar8262/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Depth-First Search
