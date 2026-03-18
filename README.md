@@ -104,6 +104,7 @@
 | [0073-set-matrix-zeroes](https://github.com/nihar8262/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/nihar8262/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/nihar8262/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/nihar8262/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/nihar8262/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/nihar8262/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nihar8262/Leetcode/tree/master/0242-valid-anagram) |
@@ -356,6 +357,7 @@
 | [0125-valid-palindrome](https://github.com/nihar8262/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nihar8262/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/nihar8262/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0205-isomorphic-strings](https://github.com/nihar8262/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nihar8262/Leetcode/tree/master/0242-valid-anagram) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nihar8262/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0807-custom-sort-string](https://github.com/nihar8262/Leetcode/tree/master/0807-custom-sort-string) |
