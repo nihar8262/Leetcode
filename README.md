@@ -153,6 +153,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nihar8262/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/nihar8262/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nihar8262/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1903-largest-odd-number-in-string](https://github.com/nihar8262/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/nihar8262/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nihar8262/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nihar8262/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -233,6 +234,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/nihar8262/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/nihar8262/Leetcode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/nihar8262/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1903-largest-odd-number-in-string](https://github.com/nihar8262/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/nihar8262/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/nihar8262/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nihar8262/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -360,6 +362,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/nihar8262/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nihar8262/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1873-longest-nice-substring](https://github.com/nihar8262/Leetcode/tree/master/1873-longest-nice-substring) |
+| [1903-largest-odd-number-in-string](https://github.com/nihar8262/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nihar8262/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nihar8262/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2211-count-collisions-on-a-road](https://github.com/nihar8262/Leetcode/tree/master/2211-count-collisions-on-a-road) |
