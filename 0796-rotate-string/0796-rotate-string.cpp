@@ -1,23 +1,16 @@
 class Solution {
 public:
     bool rotateString(string s, string goal) {
-        string res = "";
-        int n = s.size() - 1;
-        int k = n;
+        if (s.size() != goal.size()) return false;
 
-        if(s.size() != goal.size()) return false;
+        int n = s.size();
 
-        while(k>=0){
-            res += s.substr(k,n);
-            res += s.substr(0, k);
-            k--;
-
-            cout<<res<<" ";
-
-            if(res == goal || s == goal) return true;
-            else res = "";
+        for (int k = 0; k < n; k++) {
+            string res = s.substr(k) + s.substr(0, k);
+            if (res == goal) return true;
         }
 
         return false;
+
     }
 };
