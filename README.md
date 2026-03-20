@@ -371,6 +371,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nihar8262/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nihar8262/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/nihar8262/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nihar8262/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/nihar8262/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/nihar8262/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1873-longest-nice-substring](https://github.com/nihar8262/Leetcode/tree/master/1873-longest-nice-substring) |
@@ -508,6 +509,7 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/nihar8262/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nihar8262/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2211-count-collisions-on-a-road](https://github.com/nihar8262/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/nihar8262/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Depth-First Search
