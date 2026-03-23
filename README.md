@@ -56,6 +56,7 @@
 | [1755-defuse-the-bomb](https://github.com/nihar8262/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/nihar8262/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nihar8262/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nihar8262/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/nihar8262/Leetcode/tree/master/1895-largest-magic-square) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nihar8262/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nihar8262/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -484,6 +485,7 @@
 | [0073-set-matrix-zeroes](https://github.com/nihar8262/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nihar8262/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nihar8262/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nihar8262/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/nihar8262/Leetcode/tree/master/1895-largest-magic-square) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nihar8262/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Number Theory
