@@ -31,6 +31,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/nihar8262/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0797-rabbits-in-forest](https://github.com/nihar8262/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/nihar8262/Leetcode/tree/master/0830-largest-triangle-area) |
+| [0874-walking-robot-simulation](https://github.com/nihar8262/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/nihar8262/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nihar8262/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/nihar8262/Leetcode/tree/master/1006-vowel-spellchecker) |
@@ -118,6 +119,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/nihar8262/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/nihar8262/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/nihar8262/Leetcode/tree/master/0807-custom-sort-string) |
+| [0874-walking-robot-simulation](https://github.com/nihar8262/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0940-fruit-into-baskets](https://github.com/nihar8262/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nihar8262/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/nihar8262/Leetcode/tree/master/1006-vowel-spellchecker) |
@@ -301,6 +303,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/nihar8262/Leetcode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/nihar8262/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/nihar8262/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/nihar8262/Leetcode/tree/master/1642-water-bottles) |
 | [2211-count-collisions-on-a-road](https://github.com/nihar8262/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nihar8262/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
