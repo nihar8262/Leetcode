@@ -5,15 +5,12 @@ public:
 
         for(char ch: moves){
             if(ch == 'U') Up++;
-            else if(ch == 'D') Down--;
+            else if(ch == 'D') Down++;
             else if(ch == 'R') Right++;
-            else if(ch == 'L') Left--;
+            else if(ch == 'L') Left++;
         }
 
-        int x = Right + Left;
-        int y = Up + Down;
+        return (Up == Down && Left == Right);
 
-        if(x || y) return false;
-        else return true;
     }
 };
