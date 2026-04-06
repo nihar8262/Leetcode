@@ -1,16 +1,16 @@
 class Solution {
 public:
     bool judgeCircle(string moves) {
-        int Right = 0, Left = 0, Up = 0, Down = 0;
+        int x = 0, y = 0;
 
-        for(char ch: moves){
-            if(ch == 'U') Up++;
-            else if(ch == 'D') Down++;
-            else if(ch == 'R') Right++;
-            else if(ch == 'L') Left++;
+        for(char ch : moves){
+            if(ch == 'U') y++;
+            else if(ch == 'D') y--;
+            else if(ch == 'R') x++;
+            else if(ch == 'L') x--;
         }
 
-        return (Up == Down && Left == Right);
+        return (x == 0 && y == 0);
 
     }
 };
