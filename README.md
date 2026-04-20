@@ -59,6 +59,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nihar8262/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nihar8262/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/nihar8262/Leetcode/tree/master/1895-largest-magic-square) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/nihar8262/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nihar8262/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nihar8262/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2117-find-original-array-from-doubled-array](https://github.com/nihar8262/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -164,6 +165,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/nihar8262/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nihar8262/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/nihar8262/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/nihar8262/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2117-find-original-array-from-doubled-array](https://github.com/nihar8262/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/nihar8262/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nihar8262/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
