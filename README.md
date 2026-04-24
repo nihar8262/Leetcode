@@ -2,8 +2,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/nihar8262/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nihar8262/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/nihar8262/Leetcode/tree/master/0011-container-with-most-water) |
@@ -102,8 +102,8 @@
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/nihar8262/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3790-fruits-into-baskets-ii](https://github.com/nihar8262/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/nihar8262/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nihar8262/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/nihar8262/Leetcode/tree/master/0013-roman-to-integer) |
@@ -154,8 +154,8 @@
 | [3606-coupon-code-validator](https://github.com/nihar8262/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nihar8262/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/nihar8262/Leetcode/tree/master/0011-container-with-most-water) |
 | [0797-rabbits-in-forest](https://github.com/nihar8262/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/nihar8262/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -178,8 +178,8 @@
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/nihar8262/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/nihar8262/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/nihar8262/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/nihar8262/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nihar8262/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -207,8 +207,8 @@
 | [3531-count-covered-buildings](https://github.com/nihar8262/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/nihar8262/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/nihar8262/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/nihar8262/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/nihar8262/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -218,13 +218,14 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nihar8262/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/nihar8262/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/nihar8262/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2833-furthest-point-from-origin](https://github.com/nihar8262/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3242-count-elements-with-maximum-frequency](https://github.com/nihar8262/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/nihar8262/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/nihar8262/Leetcode/tree/master/3583-count-special-triplets) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nihar8262/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/nihar8262/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/nihar8262/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/nihar8262/Leetcode/tree/master/0013-roman-to-integer) |
@@ -269,8 +270,8 @@
 | [3783-mirror-distance-of-an-integer](https://github.com/nihar8262/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/nihar8262/Leetcode/tree/master/3830-find-closest-person) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nihar8262/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/nihar8262/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nihar8262/Leetcode/tree/master/0015-3sum) |
@@ -289,8 +290,8 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/nihar8262/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nihar8262/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nihar8262/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/nihar8262/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/nihar8262/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -298,12 +299,12 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nihar8262/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3790-fruits-into-baskets-ii](https://github.com/nihar8262/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/nihar8262/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/nihar8262/Leetcode/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/nihar8262/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/nihar8262/Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -319,13 +320,13 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nihar8262/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/nihar8262/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nihar8262/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/nihar8262/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nihar8262/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/nihar8262/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/nihar8262/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -346,8 +347,8 @@
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/nihar8262/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/nihar8262/Leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/nihar8262/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/nihar8262/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/nihar8262/Leetcode/tree/master/0342-power-of-four) |
@@ -358,16 +359,16 @@
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/nihar8262/Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/nihar8262/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/nihar8262/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/nihar8262/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/nihar8262/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nihar8262/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nihar8262/Leetcode/tree/master/0342-power-of-four) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nihar8262/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/nihar8262/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/nihar8262/Leetcode/tree/master/0008-string-to-integer-atoi) |
@@ -402,6 +403,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nihar8262/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nihar8262/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/nihar8262/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2833-furthest-point-from-origin](https://github.com/nihar8262/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2887-sort-vowels-in-a-string](https://github.com/nihar8262/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3330-find-the-original-typed-string-i](https://github.com/nihar8262/Leetcode/tree/master/3330-find-the-original-typed-string-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/nihar8262/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -412,8 +414,8 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nihar8262/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nihar8262/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nihar8262/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/nihar8262/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/nihar8262/Leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -428,58 +430,58 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nihar8262/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/nihar8262/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nihar8262/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/nihar8262/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nihar8262/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/nihar8262/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/nihar8262/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [1873-longest-nice-substring](https://github.com/nihar8262/Leetcode/tree/master/1873-longest-nice-substring) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/nihar8262/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/nihar8262/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nihar8262/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/nihar8262/Leetcode/tree/master/0014-longest-common-prefix) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/nihar8262/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0830-largest-triangle-area](https://github.com/nihar8262/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nihar8262/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nihar8262/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nihar8262/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1925-count-square-sum-triples](https://github.com/nihar8262/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/nihar8262/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/nihar8262/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/nihar8262/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/nihar8262/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/nihar8262/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/nihar8262/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nihar8262/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -489,8 +491,8 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nihar8262/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nihar8262/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/nihar8262/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nihar8262/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nihar8262/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -502,53 +504,53 @@
 | [2906-construct-product-matrix](https://github.com/nihar8262/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/nihar8262/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/nihar8262/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nihar8262/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/nihar8262/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/nihar8262/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nihar8262/Leetcode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/nihar8262/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/nihar8262/Leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/nihar8262/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nihar8262/Leetcode/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/nihar8262/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/nihar8262/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nihar8262/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2211-count-collisions-on-a-road](https://github.com/nihar8262/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/nihar8262/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nihar8262/Leetcode/tree/master/0112-path-sum) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nihar8262/Leetcode/tree/master/0112-path-sum) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nihar8262/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/nihar8262/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1895-largest-magic-square](https://github.com/nihar8262/Leetcode/tree/master/1895-largest-magic-square) |
@@ -559,25 +561,25 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nihar8262/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/nihar8262/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/nihar8262/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/nihar8262/Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nihar8262/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nihar8262/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nihar8262/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0796-rotate-string](https://github.com/nihar8262/Leetcode/tree/master/0796-rotate-string) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/nihar8262/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
