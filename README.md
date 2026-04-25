@@ -90,6 +90,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/nihar8262/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/nihar8262/Leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/nihar8262/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3488-closest-equal-element-queries](https://github.com/nihar8262/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nihar8262/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nihar8262/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/nihar8262/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -148,6 +149,7 @@
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/nihar8262/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/nihar8262/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/nihar8262/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3488-closest-equal-element-queries](https://github.com/nihar8262/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/nihar8262/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nihar8262/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/nihar8262/Leetcode/tree/master/3531-count-covered-buildings) |
@@ -299,6 +301,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nihar8262/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nihar8262/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nihar8262/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3488-closest-equal-element-queries](https://github.com/nihar8262/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3790-fruits-into-baskets-ii](https://github.com/nihar8262/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 | Problem Name | Difficulty |
