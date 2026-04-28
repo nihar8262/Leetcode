@@ -75,6 +75,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/nihar8262/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/nihar8262/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nihar8262/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nihar8262/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/nihar8262/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/nihar8262/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2906-construct-product-matrix](https://github.com/nihar8262/Leetcode/tree/master/2906-construct-product-matrix) |
@@ -408,6 +409,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/nihar8262/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/nihar8262/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/nihar8262/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nihar8262/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/nihar8262/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2887-sort-vowels-in-a-string](https://github.com/nihar8262/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3330-find-the-original-typed-string-i](https://github.com/nihar8262/Leetcode/tree/master/3330-find-the-original-typed-string-i) |
