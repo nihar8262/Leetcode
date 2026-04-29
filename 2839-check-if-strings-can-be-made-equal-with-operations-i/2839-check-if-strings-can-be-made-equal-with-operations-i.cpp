@@ -1,24 +1,17 @@
 class Solution {
 public:
     bool canBeEqual(string s1, string s2) {
-        int i = 0, j = 2;
-        string temp = s1;
+        string even1 = {s1[0], s1[2]};
+        string odd1  = {s1[1], s1[3]};
 
-        if(s1 == s2) return true;
+        string even2 = {s2[0], s2[2]};
+        string odd2  = {s2[1], s2[3]};
 
-        while(j<4){
-            swap(temp[i], temp[j]);
-            if(temp == s2) return true;
+        sort(even1.begin(), even1.end());
+        sort(odd1.begin(), odd1.end());
+        sort(even2.begin(), even2.end());
+        sort(odd2.begin(), odd2.end());
 
-            i++;
-            j++;
-        }
-
-        i = 1, j = 3;
-        temp = s1;
-        swap(temp[i], temp[j]);
-        if(temp == s2) return true;
-
-        return false;
+        return even1 == even2 && odd1 == odd2;
     }
 };
