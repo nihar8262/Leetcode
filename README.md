@@ -414,6 +414,7 @@
 | [2483-minimum-penalty-for-a-shop](https://github.com/nihar8262/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nihar8262/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/nihar8262/Leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/nihar8262/Leetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2887-sort-vowels-in-a-string](https://github.com/nihar8262/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3330-find-the-original-typed-string-i](https://github.com/nihar8262/Leetcode/tree/master/3330-find-the-original-typed-string-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/nihar8262/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
