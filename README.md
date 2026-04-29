@@ -103,6 +103,7 @@
 | [3583-count-special-triplets](https://github.com/nihar8262/Leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/nihar8262/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/nihar8262/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nihar8262/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/nihar8262/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3790-fruits-into-baskets-ii](https://github.com/nihar8262/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -158,6 +159,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nihar8262/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/nihar8262/Leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/nihar8262/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nihar8262/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/nihar8262/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 | Problem Name | Difficulty |
