@@ -2,7 +2,7 @@ class Solution {
 public:
     int minimumDistance(vector<int>& nums) {
         int n = nums.size();
-        int ans = INT_MAX, distance;
+        int ans = INT_MAX;
         unordered_map<int, vector<int>> mp;
 
         for (int i = 0; i < n; i++) {
@@ -14,9 +14,7 @@ public:
 
             if (arr.size() >= 3) {
                 for (int i = 0; i < arr.size() - 2; i++) {
-                    distance = abs(arr[i] - arr[i + 1]) +
-                               abs(arr[i + 1] - arr[i + 2]) +
-                               abs(arr[i] - arr[i + 2]);
+                    int distance =2 * abs(arr[i] - arr[i + 2]);
                     ans = min(ans, distance);
                 }
             }
