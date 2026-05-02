@@ -245,6 +245,7 @@
 | [0231-power-of-two](https://github.com/nihar8262/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nihar8262/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nihar8262/Leetcode/tree/master/0342-power-of-four) |
+| [0788-rotated-digits](https://github.com/nihar8262/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0797-rabbits-in-forest](https://github.com/nihar8262/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/nihar8262/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nihar8262/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -437,6 +438,7 @@
 | [0120-triangle](https://github.com/nihar8262/Leetcode/tree/master/0120-triangle) |
 | [0413-arithmetic-slices](https://github.com/nihar8262/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nihar8262/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/nihar8262/Leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/nihar8262/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nihar8262/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nihar8262/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
