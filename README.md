@@ -560,12 +560,14 @@
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nihar8262/Leetcode/tree/master/0112-path-sum) |
+| [0547-number-of-provinces](https://github.com/nihar8262/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nihar8262/Leetcode/tree/master/0112-path-sum) |
+| [0547-number-of-provinces](https://github.com/nihar8262/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -594,6 +596,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nihar8262/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/nihar8262/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -602,4 +605,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/nihar8262/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/nihar8262/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
