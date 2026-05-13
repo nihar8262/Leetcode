@@ -18,6 +18,7 @@
 | [0118-pascals-triangle](https://github.com/nihar8262/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nihar8262/Leetcode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/nihar8262/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/nihar8262/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0169-majority-element](https://github.com/nihar8262/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/nihar8262/Leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/nihar8262/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -518,6 +519,7 @@
 | [0048-rotate-image](https://github.com/nihar8262/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nihar8262/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nihar8262/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0130-surrounded-regions](https://github.com/nihar8262/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/nihar8262/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/nihar8262/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/nihar8262/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -567,6 +569,7 @@
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nihar8262/Leetcode/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/nihar8262/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/nihar8262/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/nihar8262/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -575,6 +578,7 @@
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nihar8262/Leetcode/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/nihar8262/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/nihar8262/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/nihar8262/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/nihar8262/Leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -607,6 +611,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nihar8262/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/nihar8262/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/nihar8262/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
