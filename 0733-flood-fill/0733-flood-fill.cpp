@@ -34,14 +34,6 @@ public:
             }
         }
 
-        // for(int i = 0; i < m; i++){
-        //     for(int j = 0; j < n; j++){
-        //         if(vis[i][j] != color && image[i][j] == original){
-        //             vis[i][j] = original;
-        //         }
-        //     }
-        // }
-
         return image;
     }
 };
