@@ -577,6 +577,7 @@
 | [0200-number-of-islands](https://github.com/nihar8262/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/nihar8262/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/nihar8262/Leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/nihar8262/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/nihar8262/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
@@ -589,6 +590,7 @@
 | [0542-01-matrix](https://github.com/nihar8262/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/nihar8262/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/nihar8262/Leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/nihar8262/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0994-rotting-oranges](https://github.com/nihar8262/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/nihar8262/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -622,6 +624,7 @@
 | [0130-surrounded-regions](https://github.com/nihar8262/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/nihar8262/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/nihar8262/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/nihar8262/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/nihar8262/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -635,4 +638,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/nihar8262/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/nihar8262/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
