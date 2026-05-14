@@ -41,6 +41,7 @@
 | [1006-vowel-spellchecker](https://github.com/nihar8262/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/nihar8262/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/nihar8262/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1020-number-of-enclaves](https://github.com/nihar8262/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/nihar8262/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1200-minimum-absolute-difference](https://github.com/nihar8262/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nihar8262/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -523,6 +524,7 @@
 | [0542-01-matrix](https://github.com/nihar8262/Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/nihar8262/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/nihar8262/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/nihar8262/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nihar8262/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/nihar8262/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nihar8262/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -572,6 +574,7 @@
 | [0130-surrounded-regions](https://github.com/nihar8262/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/nihar8262/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/nihar8262/Leetcode/tree/main/0733-flood-fill/) | Easy |
+| [1020-number-of-enclaves](https://github.com/nihar8262/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -583,6 +586,7 @@
 | [0547-number-of-provinces](https://github.com/nihar8262/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/nihar8262/Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/nihar8262/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/nihar8262/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -613,6 +617,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/nihar8262/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/nihar8262/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/nihar8262/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [1020-number-of-enclaves](https://github.com/nihar8262/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
