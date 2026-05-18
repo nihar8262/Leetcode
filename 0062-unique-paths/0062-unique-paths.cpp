@@ -12,7 +12,6 @@ public:
                     if(j>0) right = dp[i][j-1];
                     dp[i][j] = down + right;
                 }
-
             }
         }
 
