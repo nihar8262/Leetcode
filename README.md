@@ -21,6 +21,7 @@
 | [0130-surrounded-regions](https://github.com/nihar8262/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0169-majority-element](https://github.com/nihar8262/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/nihar8262/Leetcode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/nihar8262/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/nihar8262/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/nihar8262/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/nihar8262/Leetcode/tree/master/0229-majority-element-ii) |
@@ -445,6 +446,7 @@
 | [0096-unique-binary-search-trees](https://github.com/nihar8262/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/nihar8262/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nihar8262/Leetcode/tree/master/0120-triangle) |
+| [0198-house-robber](https://github.com/nihar8262/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0413-arithmetic-slices](https://github.com/nihar8262/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/nihar8262/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0542-01-matrix](https://github.com/nihar8262/Leetcode/tree/main/0542-01-matrix/) | Medium |
