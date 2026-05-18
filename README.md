@@ -248,6 +248,7 @@
 | [0009-palindrome-number](https://github.com/nihar8262/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/nihar8262/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/nihar8262/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/nihar8262/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/nihar8262/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/nihar8262/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/nihar8262/Leetcode/tree/master/0231-power-of-two) |
@@ -444,6 +445,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nihar8262/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/nihar8262/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/nihar8262/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/nihar8262/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/nihar8262/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nihar8262/Leetcode/tree/master/0120-triangle) |
@@ -497,6 +499,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/nihar8262/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [2324-find-triangular-sum-of-an-array](https://github.com/nihar8262/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/nihar8262/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
