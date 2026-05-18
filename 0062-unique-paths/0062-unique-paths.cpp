@@ -1,22 +1,21 @@
 class Solution {
 
 private:
-  int solve(int m,int n,vector<vector<int>> &dp){
-    if(m==0 && n==0) return 1;
-    if(m<0 || n<0) return 0;
+    int countMaxPath(int row, int col, vector<vector<int>> &dp){
+        if(row == 0 && col == 0) return 1;
+        else if(row < 0 || col < 0) return 0;
 
-    if(dp[m][n]!=-1) return dp[m][n];
+        if(dp[row][col] != -1) return dp[row][col];
 
-    int up=solve(m-1,n,dp);
-    int left=solve(m,n-1,dp);
+        int u = countMaxPath(row-1, col, dp);
+        int l = countMaxPath(row, col-1, dp);
 
-    dp[m][n]=up+left;
+        return dp[row][col] = l + u;
+    }
 
-    return dp[m][n];
-  }    
 public:
     int uniquePaths(int m, int n) {
-        vector<vector<int>> dp(m,vector<int>(n,-1));
-        return solve(m-1,n-1,dp);
+        vector<vector<int>> dp(m, vector<int>(n,-1)); 
+        return countMaxPath(m-1,n-1, dp);
     }
 };
