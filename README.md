@@ -125,6 +125,7 @@
 | [0013-roman-to-integer](https://github.com/nihar8262/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/nihar8262/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/nihar8262/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/nihar8262/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/nihar8262/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/nihar8262/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/nihar8262/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -304,6 +305,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nihar8262/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/nihar8262/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nihar8262/Leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/nihar8262/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/nihar8262/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/nihar8262/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/nihar8262/Leetcode/tree/master/0189-rotate-array) |
@@ -526,6 +528,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/nihar8262/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/nihar8262/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nihar8262/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0141-linked-list-cycle](https://github.com/nihar8262/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/nihar8262/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/nihar8262/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/nihar8262/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
