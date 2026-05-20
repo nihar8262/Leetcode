@@ -309,6 +309,7 @@
 | [0189-rotate-array](https://github.com/nihar8262/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nihar8262/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nihar8262/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/nihar8262/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nihar8262/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nihar8262/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/nihar8262/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -525,6 +526,7 @@
 | [0061-rotate-list](https://github.com/nihar8262/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nihar8262/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nihar8262/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/nihar8262/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1765-merge-in-between-linked-lists](https://github.com/nihar8262/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/nihar8262/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/nihar8262/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
