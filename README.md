@@ -534,6 +534,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/nihar8262/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/nihar8262/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/nihar8262/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/nihar8262/Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/nihar8262/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1765-merge-in-between-linked-lists](https://github.com/nihar8262/Leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/nihar8262/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
