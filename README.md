@@ -581,6 +581,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nihar8262/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/nihar8262/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0102-binary-tree-level-order-traversal](https://github.com/nihar8262/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nihar8262/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nihar8262/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -596,6 +597,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nihar8262/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/nihar8262/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0102-binary-tree-level-order-traversal](https://github.com/nihar8262/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nihar8262/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nihar8262/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -630,6 +632,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/nihar8262/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nihar8262/Leetcode/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/nihar8262/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
