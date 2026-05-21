@@ -463,6 +463,7 @@
 | [0096-unique-binary-search-trees](https://github.com/nihar8262/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/nihar8262/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nihar8262/Leetcode/tree/master/0120-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nihar8262/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/nihar8262/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/nihar8262/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0413-arithmetic-slices](https://github.com/nihar8262/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -586,6 +587,7 @@
 | [0110-balanced-binary-tree](https://github.com/nihar8262/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nihar8262/Leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nihar8262/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/nihar8262/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/nihar8262/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/nihar8262/Leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -605,6 +607,7 @@
 | [0110-balanced-binary-tree](https://github.com/nihar8262/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nihar8262/Leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nihar8262/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/nihar8262/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/nihar8262/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/nihar8262/Leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -628,6 +631,7 @@
 | [0110-balanced-binary-tree](https://github.com/nihar8262/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/nihar8262/Leetcode/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/nihar8262/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0130-surrounded-regions](https://github.com/nihar8262/Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/nihar8262/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/nihar8262/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
