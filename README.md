@@ -40,6 +40,7 @@
 | [0797-rabbits-in-forest](https://github.com/nihar8262/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/nihar8262/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0874-walking-robot-simulation](https://github.com/nihar8262/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [0930-binary-subarrays-with-sum](https://github.com/nihar8262/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0940-fruit-into-baskets](https://github.com/nihar8262/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nihar8262/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/nihar8262/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -142,6 +143,7 @@
 | [0797-rabbits-in-forest](https://github.com/nihar8262/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0807-custom-sort-string](https://github.com/nihar8262/Leetcode/tree/master/0807-custom-sort-string) |
 | [0874-walking-robot-simulation](https://github.com/nihar8262/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [0930-binary-subarrays-with-sum](https://github.com/nihar8262/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0940-fruit-into-baskets](https://github.com/nihar8262/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/nihar8262/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nihar8262/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -373,6 +375,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/nihar8262/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/nihar8262/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/nihar8262/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/nihar8262/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0940-fruit-into-baskets](https://github.com/nihar8262/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/nihar8262/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/nihar8262/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -710,6 +713,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nihar8262/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/nihar8262/Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/nihar8262/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/nihar8262/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1895-largest-magic-square](https://github.com/nihar8262/Leetcode/tree/master/1895-largest-magic-square) |
