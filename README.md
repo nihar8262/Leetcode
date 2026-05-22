@@ -135,6 +135,7 @@
 | [0229-majority-element-ii](https://github.com/nihar8262/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/nihar8262/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nihar8262/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0424-longest-repeating-character-replacement](https://github.com/nihar8262/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/nihar8262/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/nihar8262/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/nihar8262/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -369,6 +370,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nihar8262/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/nihar8262/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/nihar8262/Leetcode/tree/master/0413-arithmetic-slices) |
+| [0424-longest-repeating-character-replacement](https://github.com/nihar8262/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/nihar8262/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/nihar8262/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/nihar8262/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -421,6 +423,7 @@
 | [0165-compare-version-numbers](https://github.com/nihar8262/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/nihar8262/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nihar8262/Leetcode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/nihar8262/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/nihar8262/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/nihar8262/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/nihar8262/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
