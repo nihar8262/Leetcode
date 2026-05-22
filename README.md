@@ -153,6 +153,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nihar8262/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nihar8262/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nihar8262/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/nihar8262/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nihar8262/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1500-count-largest-group](https://github.com/nihar8262/Leetcode/tree/master/1500-count-largest-group) |
 | [1590-make-sum-divisible-by-p](https://github.com/nihar8262/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
@@ -382,6 +383,7 @@
 | [0940-fruit-into-baskets](https://github.com/nihar8262/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/nihar8262/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/nihar8262/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/nihar8262/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/nihar8262/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/nihar8262/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/nihar8262/Leetcode/tree/master/1755-defuse-the-bomb) |
@@ -440,6 +442,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/nihar8262/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nihar8262/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nihar8262/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/nihar8262/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/nihar8262/Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nihar8262/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/nihar8262/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
