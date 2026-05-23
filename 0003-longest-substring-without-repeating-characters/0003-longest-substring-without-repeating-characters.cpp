@@ -7,7 +7,7 @@ public:
 
         for (int right = 0; right < s.length(); right++) {
             char c = s[right];
-            count[c] = count[c] + 1;
+            count[c]++;
             
             while (count[c] > 1) {
                 char leftChar = s[left];
