@@ -120,6 +120,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/nihar8262/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/nihar8262/Leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/nihar8262/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nihar8262/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/nihar8262/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nihar8262/Leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/nihar8262/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -212,6 +213,7 @@
 | [3439-reschedule-meetings-for-maximum-free-time-i](https://github.com/nihar8262/Leetcode/tree/master/3439-reschedule-meetings-for-maximum-free-time-i) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/nihar8262/Leetcode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/nihar8262/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nihar8262/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,6 +246,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/nihar8262/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3531-count-covered-buildings](https://github.com/nihar8262/Leetcode/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/nihar8262/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nihar8262/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -339,6 +342,7 @@
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/nihar8262/Leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/nihar8262/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nihar8262/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nihar8262/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -350,6 +354,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nihar8262/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nihar8262/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3488-closest-equal-element-queries](https://github.com/nihar8262/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nihar8262/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3790-fruits-into-baskets-ii](https://github.com/nihar8262/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Segment Tree
 | Problem Name | Difficulty |
