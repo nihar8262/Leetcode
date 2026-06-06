@@ -805,5 +805,6 @@
 | [0197-rising-temperature](https://github.com/nihar8262/Leetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/nihar8262/Leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/nihar8262/Leetcode/tree/main/0550-game-play-analysis-iv/) | Medium |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/nihar8262/Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/nihar8262/Leetcode/tree/main/0577-employee-bonus/) | Easy |
 <!---LeetCode Topics End-->
