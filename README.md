@@ -20,6 +20,7 @@
 | [0063-unique-paths-ii](https://github.com/nihar8262/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/nihar8262/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nihar8262/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/nihar8262/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nihar8262/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nihar8262/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nihar8262/Leetcode/tree/master/0120-triangle) |
@@ -355,6 +356,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/nihar8262/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nihar8262/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nihar8262/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/nihar8262/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/nihar8262/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/nihar8262/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/nihar8262/Leetcode/tree/master/0349-intersection-of-two-arrays) |
