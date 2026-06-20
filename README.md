@@ -59,6 +59,7 @@
 | [0994-rotting-oranges](https://github.com/nihar8262/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/nihar8262/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1006-vowel-spellchecker](https://github.com/nihar8262/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/nihar8262/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1018-largest-perimeter-triangle](https://github.com/nihar8262/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/nihar8262/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1020-number-of-enclaves](https://github.com/nihar8262/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -372,6 +373,7 @@
 | [0704-binary-search](https://github.com/nihar8262/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/nihar8262/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/nihar8262/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/nihar8262/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nihar8262/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nihar8262/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/nihar8262/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
