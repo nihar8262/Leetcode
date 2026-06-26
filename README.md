@@ -317,6 +317,7 @@
 | [1642-water-bottles](https://github.com/nihar8262/Leetcode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/nihar8262/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1903-largest-odd-number-in-string](https://github.com/nihar8262/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/nihar8262/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/nihar8262/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/nihar8262/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2174-next-greater-numerically-balanced-number](https://github.com/nihar8262/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -471,6 +472,7 @@
 | [0326-power-of-three](https://github.com/nihar8262/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nihar8262/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/nihar8262/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1922-count-good-numbers](https://github.com/nihar8262/Leetcode/tree/main/1922-count-good-numbers/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
