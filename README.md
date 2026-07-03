@@ -114,6 +114,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nihar8262/Leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/nihar8262/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/nihar8262/Leetcode/tree/main/2615-sum-of-distances/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nihar8262/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/nihar8262/Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2906-construct-product-matrix](https://github.com/nihar8262/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/nihar8262/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -391,6 +392,7 @@
 | [1539-kth-missing-positive-number](https://github.com/nihar8262/Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/nihar8262/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/nihar8262/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nihar8262/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/nihar8262/Leetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nihar8262/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3790-fruits-into-baskets-ii](https://github.com/nihar8262/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -652,6 +654,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/nihar8262/Leetcode/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/nihar8262/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/nihar8262/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nihar8262/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/nihar8262/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/nihar8262/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Number Theory
@@ -781,6 +784,7 @@
 | [0994-rotting-oranges](https://github.com/nihar8262/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/nihar8262/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nihar8262/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nihar8262/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -805,6 +809,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/nihar8262/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nihar8262/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/nihar8262/Leetcode/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/nihar8262/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
@@ -820,6 +825,7 @@
 | [0547-number-of-provinces](https://github.com/nihar8262/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/nihar8262/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/nihar8262/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/nihar8262/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
