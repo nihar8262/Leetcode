@@ -73,6 +73,7 @@
 | [1262-greatest-sum-divisible-by-three](https://github.com/nihar8262/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/nihar8262/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/nihar8262/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/nihar8262/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/nihar8262/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nihar8262/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/nihar8262/Leetcode/tree/master/1390-four-divisors) |
@@ -251,6 +252,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/nihar8262/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/nihar8262/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/nihar8262/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/nihar8262/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/nihar8262/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/nihar8262/Leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/nihar8262/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
