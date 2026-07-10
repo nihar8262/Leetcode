@@ -177,6 +177,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nihar8262/Leetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1006-vowel-spellchecker](https://github.com/nihar8262/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/nihar8262/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/nihar8262/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nihar8262/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/nihar8262/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nihar8262/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -277,6 +278,7 @@
 | [0229-majority-element-ii](https://github.com/nihar8262/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/nihar8262/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/nihar8262/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/nihar8262/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/nihar8262/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/nihar8262/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/nihar8262/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -503,6 +505,7 @@
 | [0807-custom-sort-string](https://github.com/nihar8262/Leetcode/tree/master/0807-custom-sort-string) |
 | [1006-vowel-spellchecker](https://github.com/nihar8262/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1021-remove-outermost-parentheses](https://github.com/nihar8262/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/nihar8262/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/nihar8262/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nihar8262/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nihar8262/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
