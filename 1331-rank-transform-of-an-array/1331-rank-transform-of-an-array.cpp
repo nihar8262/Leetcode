@@ -1,24 +1,22 @@
 class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
-        vector<int> dup = arr;
-    sort(dup.begin(), dup.end());
-    map<int, int> mp;
-    
-    mp[dup[0]] = 1;
-    for (int i = 1; i < dup.size(); i++) {
-        if (dup[i] > dup[i - 1]) {
-            mp[dup[i]] = mp[dup[i - 1]] + 1;
-        } else {
-            mp[dup[i]] = mp[dup[i - 1]];
+        vector<int> temp = arr;
+        unordered_map<int, int> mp;
+
+        sort(temp.begin(), temp.end());
+        temp.erase(unique(temp.begin(), temp.end()), temp.end());
+
+        int n = arr.size();
+
+        for(int i=0; i<temp.size(); i++){
+            mp[temp[i]] = i+1;
         }
-    }
-    
-    vector<int> res;
-    for (int x : arr) {
-        res.push_back(mp[x]);
-    }
-    
-    return res;
+
+        for(int i = 0; i<n; i++){
+            arr[i] = mp[arr[i]];
+        }
+
+        return arr;
     }
 };
